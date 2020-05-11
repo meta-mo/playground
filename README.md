@@ -4,4 +4,5 @@
 - 
 
 ### 製作中
+- web-corp LP Template 生成
 - 
